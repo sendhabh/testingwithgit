@@ -1,4 +1,5 @@
 apple
-banan
+banana
 jackfruit
+orange
 
